@@ -51,13 +51,13 @@ They are formatted for clean, border-free printing and suitable for both home pr
 ## How to Use It
 
 1. **Start Fresh Daily**: On a clean sheet, write today’s date in the upper left corner.
-2. **Time Blocking**: Number the hours of your day down the left side, starting with your workday.
+2. **Time Blocking**: Number the hours of your day down the left side, starting with your start time.
 3. **Meeting Schedule**: Check your digital calendar and copy your meetings and time-specific events into the left column.
 4. **Evening Engagements**: Don’t forget to add those too, so you’re mentally prepared.
 5. **Top Three Tasks**: Identify three major tasks for the day—this is where you eat your frog 🐸.
 
 ### As the Day Progresses:
-- **“What else is going on today”**: Use this space for notes, meetings, or emergent tasks.
+- **“What else is going on today”**: Use this space for notes, drawings or math.
 - **Compact Calendar**: Quickly reference upcoming dates or holidays during discussions. Holidays are color-coded and editable.
 - **Right Column = GTD Inbox**: Dump your brain here. Every stray thought, task, or idea lands in this catch-all column.
 - **Shopping List Inbox**: Not strictly GTD—but a trusted place to note things you need to buy, personal or work-related.
