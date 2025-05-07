@@ -59,7 +59,7 @@ _This allows you to edit your own version in Google Sheets._
 
 ### End of Day Routine:
 - Review the page.
-- Transfer everything into your digital GTD system (OmniFocus, Things, etc.).
+- Transfer everything into your digital GTD system (OmniFocus, Things, etc.) using the inbox checkboxes to show that entry has been captured.
 - Break tasks down, delegate where necessary, and archive the sheet.
 
 
