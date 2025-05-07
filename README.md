@@ -20,7 +20,7 @@
 
 This is a single-day productivity planner designed to work as a printed, analog tool for capturing and organizing your thoughts and actions throughout the day. It was born from the desire to *not* look at a screen during meetings, deep work, or conversations—especially valuable for consultants and customer-facing professionals.
 
-The design closely mimics the visual style of David Seah’s [Emergent Task Planner](https://davidseah.com/node/the-emergent-task-planner/) (ETP), translated into a modifiable and shareable Google Sheet. It includes modern additions to support GTD workflows, while maintaining the classic ETP elegance.
+The design closely mimics the content and visual style of David Seah’s [Emergent Task Planner](https://davidseah.com/node/the-emergent-task-planner/) (ETP), translated into a modifiable and shareable Google Sheet. It includes modern additions to support GTD workflows, while maintaining the classic ETP elegance.
 
 ---
 
