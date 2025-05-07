@@ -52,7 +52,7 @@ They are formatted for clean, border-free printing and suitable for both home pr
 
 1. **Start Fresh Daily**: On a clean sheet, write today’s date in the upper left corner.
 2. **Time Blocking**: Number the hours of your day down the left side, starting with your start time.
-3. **Meeting Schedule**: Check your digital calendar and copy your meetings and time-specific events into the left column.
+3. **Meeting Schedule**: Check your digital calendar (Outlook, Apple Calendar, etc.) and copy your meetings and time-specific events into the left column.
 4. **Evening Engagements**: Don’t forget to add those too, so you’re mentally prepared.
 5. **Top Three Tasks**: Identify three major tasks for the day—this is where you eat your frog 🐸.
 
