@@ -28,7 +28,7 @@ The design closely mimics the visual style of David Seah’s [Emergent Task Plan
 
 🔗 [View the Planner (Google Sheets - View Only)](https://docs.google.com/spreadsheets/d/1Z3FDHdtwsH6ryYBDtTwqjGDbUudu82I4oB9q61cJYhE/view?gid=742254141#gid=742254141)
 
-➡️ [Click Here to Make a Copy](https://docs.google.com/spreadsheets/d/1Z3FDHdtwsH6ryYBDtTwqjGDbUudu82I4oB9q61cJYhE/view?gid=742254141#gid=742254141)
+➡️ [Click Here to Make a Copy](https://docs.google.com/spreadsheets/d/1Z3FDHdtwsH6ryYBDtTwqjGDbUudu82I4oB9q61cJYhE/copy?gid=742254141#gid=742254141)
 _This allows you to edit your own version in Google Sheets._
 
 ---
