@@ -24,19 +24,19 @@ The design closely mimics the content and visual style of David Seah’s [Emerge
 
 ---
 
+## 🖨 Printable PDFs
+
+A4 and US Letter (8.5" x 11") PDF versions of the planner are included in this repository under `/pdf/`.
+They are formatted for clean, border-free printing and suitable for both home printers and professional print shops.
+
+---
+
 ## 📄 Open the Spreadsheet
 
 🔗 [View the Planner (Google Sheets - View Only)](https://docs.google.com/spreadsheets/d/1Z3FDHdtwsH6ryYBDtTwqjGDbUudu82I4oB9q61cJYhE/view?gid=742254141#gid=742254141)
 
 ➡️ [Click Here to Make a Copy](https://docs.google.com/spreadsheets/d/1Z3FDHdtwsH6ryYBDtTwqjGDbUudu82I4oB9q61cJYhE/copy?gid=742254141#gid=742254141)
 _This allows you to edit your own version in Google Sheets._
-
----
-
-## 🖨 Printable PDFs
-
-A4 and US Letter (8.5" x 11") PDF versions of the planner are included in this repository under `/pdf/`.
-They are formatted for clean, border-free printing and suitable for both home printers and professional print shops.
 
 ---
 
@@ -69,9 +69,11 @@ They are formatted for clean, border-free printing and suitable for both home pr
 
 ---
 
-## GTD Context and Limitations
+## Why This Matters
 
-This planner represents **only the INBOX** portion of a complete GTD system. It's intentionally focused on capture and clarity, not task tracking, next actions, or project management. You should use this in concert with a digital GTD system like [OmniFocus](https://www.omnigroup.com/omnifocus), [Things](https://culturedcode.com/things/), or your own trusted method.
+In a world of constant digital interruptions, **writing things down with a pen on paper** is powerful. This analog inbox lets you stay mentally present in meetings and conversations, while still capturing everything you need to process later.
+
+It’s light, flexible, and quiet—letting you engage more like a human and less like a machine.
 
 ---
 
@@ -89,6 +91,12 @@ This planner represents **only the INBOX** portion of a complete GTD system. It'
 
 ---
 
+## GTD Context and Limitations
+
+This planner represents **only the INBOX** portion of a complete GTD system. It's intentionally focused on capture and clarity, not task tracking, next actions, or project management. You should use this in concert with a digital GTD system like [OmniFocus](https://www.omnigroup.com/omnifocus), [Things](https://culturedcode.com/things/), or your own trusted method.
+
+---
+
 ## What is GTD?
 
 **Getting Things Done (GTD)** is a productivity methodology created by David Allen. At its core, it’s about clearing your mind by capturing everything in a trusted system—then methodically organizing, reviewing, and doing. This spreadsheet focuses purely on the *capture* phase. For everything else, use a complete GTD system.
@@ -97,7 +105,7 @@ This planner represents **only the INBOX** portion of a complete GTD system. It'
 
 ---
 
-## Printing Instructions
+## Google Sheet Manual Printing Instructions
 
 To preserve the analog experience, I recommend printing this planner on **artist sketchbooks** like:
 
@@ -130,14 +138,6 @@ If using a spiral-bound sketchbook:
 1. Gently **remove the paper from the binding** and run the pages through your printer.
 2. **Rebind the notebook**—you can use pliers or a gentle hand.
 3. **Secure the binding** by weaving the wire with **dental floss**. This will keep the notebook from unwinding.
-
----
-
-## Why This Matters
-
-In a world of constant digital interruptions, **writing things down with a pen on paper** is powerful. This analog inbox lets you stay mentally present in meetings and conversations, while still capturing everything you need to process later.
-
-It’s light, flexible, and quiet—letting you engage more like a human and less like a machine.
 
 ---
 
