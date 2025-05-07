@@ -14,7 +14,6 @@
 10. [Why This Matters](#why-this-matters)
 11. [Productivity Strategies and Tools](#productivity-strategies-and-tools)
 
----
 
 ## About This Spreadsheet
 
@@ -22,14 +21,12 @@ This is a single-day productivity planner designed to work as a printed, analog 
 
 The design closely mimics the content and visual style of David Seah’s [Emergent Task Planner](https://davidseah.com/node/the-emergent-task-planner/) (ETP), translated into a modifiable and shareable Google Sheet. It includes modern additions to support GTD workflows, while maintaining the classic ETP elegance.
 
----
 
 ## 🖨 Printable PDFs
 
 A4 and US Letter (8.5" x 11") PDF versions of the planner are included in this repository under `/pdf/`.
 They are formatted for clean, border-free printing and suitable for both home printers and professional print shops.
 
----
 
 ## 📄 Open the Spreadsheet
 
@@ -38,7 +35,6 @@ They are formatted for clean, border-free printing and suitable for both home pr
 ➡️ [Click Here to Make a Copy](https://docs.google.com/spreadsheets/d/1Z3FDHdtwsH6ryYBDtTwqjGDbUudu82I4oB9q61cJYhE/copy?gid=742254141#gid=742254141)
 _This allows you to edit your own version in Google Sheets._
 
----
 
 ## 🖼 Preview
 
@@ -46,7 +42,6 @@ _This allows you to edit your own version in Google Sheets._
 
 > _Want to contribute? You can share your modified versions or submit a pull request to improve the layout._
 
----
 
 ## How to Use It
 
@@ -67,7 +62,6 @@ _This allows you to edit your own version in Google Sheets._
 - Transfer everything into your digital GTD system (OmniFocus, Things, etc.).
 - Break tasks down, delegate where necessary, and archive the sheet.
 
----
 
 ## Why This Matters
 
@@ -75,7 +69,6 @@ In a world of constant digital interruptions, **writing things down with a pen o
 
 It’s light, flexible, and quiet—letting you engage more like a human and less like a machine.
 
----
 
 ## Dedication to David Seah
 
@@ -95,7 +88,6 @@ It’s light, flexible, and quiet—letting you engage more like a human and les
 
 This planner represents **only the INBOX** portion of a complete GTD system. It's intentionally focused on capture and clarity, not task tracking, next actions, or project management. You should use this in concert with a digital GTD system like [OmniFocus](https://www.omnigroup.com/omnifocus), [Things](https://culturedcode.com/things/), or your own trusted method.
 
----
 
 ## What is GTD?
 
@@ -103,7 +95,6 @@ This planner represents **only the INBOX** portion of a complete GTD system. It'
 
 📖 Resource: [Getting Things Done on Amazon](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/)
 
----
 
 ## Google Sheet Manual Printing Instructions
 
@@ -139,7 +130,6 @@ If using a spiral-bound sketchbook:
 2. **Rebind the notebook**—you can use pliers or a gentle hand.
 3. **Secure the binding** by weaving the wire with **dental floss**. This will keep the notebook from unwinding.
 
----
 
 ## Productivity Strategies and Tools
 
@@ -154,7 +144,6 @@ If using a spiral-bound sketchbook:
 7. **Schedule if necessary, but sparingly** – Time-block when you need protected focus.
 8. **Review weekly (at minimum)** – The most important GTD habit.
 
----
 
 ### 🧠 How Do You Organize All the Things?
 
@@ -168,7 +157,6 @@ If using a spiral-bound sketchbook:
 4. **Reflect** – Review often. Keep your system clean.
 5. **Engage** – Pick the right task with confidence.
 
----
 
 ### 🐸 How Do You Prioritize the Organized Things?
 
@@ -179,7 +167,6 @@ Tackle it at the beginning of the day when your energy and focus are highest.
 
 📖 Resource: [Eat That Frog on Amazon](https://www.amazon.com/gp/product/1576754227/)
 
----
 
 ### ⏱ How Do You Execute Well, Sustainably?
 
@@ -196,4 +183,3 @@ I aim for four Pomodoros a day—two hours of focused work can create enormous v
 
 📖 Resource: [The Pomodoro Technique on Amazon](https://www.amazon.com/Pomodoro-Technique-Acclaimed-Time-Management-Transformed/dp/1524760706/)
 
----
